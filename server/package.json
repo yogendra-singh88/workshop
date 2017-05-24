@@ -1,0 +1,16 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Workshop work done by student of Parevartan.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
